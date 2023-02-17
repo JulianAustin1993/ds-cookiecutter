@@ -1,0 +1,14 @@
+#VS code
+.vscode/
+
+# data
+
+# .env configuration
+.env
+
+# Mac OS
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
